@@ -79,15 +79,15 @@
 }
 
 .bg-blue{
-    background-color: rgb(48, 48, 253);
+    background-color: #255ee9;
 }
 
 .bg-lightgrey{
-    background-color: lightgrey;
+    background-color: rgb(240, 238, 238);
 }
 
 .bg-grey{
-    background-color: rgb(48, 48, 48);
+    background-color: rgb(39, 39, 39);
 }
 
 .pd-10{
@@ -166,6 +166,7 @@ hr{
 .btn{
     padding: 10px 16px;
     border-radius: 20px;
+    font-weight: bold;
 }
 
 .accedi{
@@ -190,6 +191,7 @@ h2{
 p{
     font-size: 24px;
     font-weight: 300;
+    line-height: 1.5;
 }
 
 .buttons{
@@ -197,11 +199,16 @@ p{
     padding-bottom: 100px;
 }
 
+.arrow{
+    font-size: 28px;
+}
+
 .mac, .browser{
     font-size: 20px;
     margin: 0 20px;
     padding: 15px 20px;
     border-radius: 32px;
+    font-weight: bold;
 }
 
 .mac{
@@ -214,8 +221,12 @@ p{
     color: white;
 }
 
+.item4{
+    width: 120%;
+}
+
 h4{
-    font-size: 28px;
+    font-size: 30px;
 }
 
 #mac{
