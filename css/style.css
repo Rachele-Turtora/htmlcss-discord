@@ -107,7 +107,7 @@
 }
 
 .bg-grey{
-    background-color: grey;
+    background-color: rgb(48, 48, 48);
 }
 
 .bg-lightgreen{
@@ -132,6 +132,14 @@
 
 .pd-80{
     padding: 80px 0;
+}
+
+.pd-top-80{
+    padding-top: 80px;
+}
+
+.mr-top-10{
+    margin: 10px;
 }
 
 .font-20{
@@ -192,7 +200,7 @@ ul{
     list-style-type: none;
 }
 
-ul li{
+.nav li{
     display: inline-block;
 }
 
@@ -208,7 +216,7 @@ a{
 }
 
 hr{
-    border-color: lightgray;
+    border-color: rgb(144, 144, 232);
 }
 
 .btn{
@@ -246,10 +254,10 @@ p{
 }
 
 .mac, .browser{
-    font-size: 24px;
+    font-size: 20px;
     margin: 0 20px;
     padding: 15px 20px;
-    border-radius: 24px;
+    border-radius: 32px;
 }
 
 .mac{
@@ -261,6 +269,46 @@ p{
     background-color: black;
     color: white;
 }
+
+h4{
+    font-size: 28px;
+}
+
+#mac{
+    color: white;
+    background-color: rgb(144, 144, 232);
+}
+
+h3{
+    font-size: 34px;
+}
+
+h3, #title{
+    color:  rgb(144, 144, 232);
+}
+
+#title{
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.fab{
+    color: white;
+    font-size: 32px;
+    padding: 10px;
+}
+
+.italy{
+    padding: 10px;
+    font-size: 20px;
+}
+
+.footer li{
+    padding: 10px;
+    color: white;
+    font-size: 20px;
+}
+
 
 
 
