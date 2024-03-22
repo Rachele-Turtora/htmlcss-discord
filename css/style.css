@@ -78,44 +78,16 @@
     justify-content: center;
 }
 
-.bg-lightblue{
-    background-color: lightblue;
-}
-
-.bg-violet{
-    background-color: violet;
-}
-
 .bg-blue{
     background-color: rgb(48, 48, 253);
-}
-
-.bg-cyan{
-    background-color: cyan;
-}
-
-.bg-pink{
-    background-color: pink;
 }
 
 .bg-lightgrey{
     background-color: lightgrey;
 }
 
-.bg-green{
-    background-color: green;
-}
-
 .bg-grey{
     background-color: rgb(48, 48, 48);
-}
-
-.bg-lightgreen{
-    background-color: lightgreen;
-}
-
-.bg-red{
-    background-color: red;
 }
 
 .pd-10{
@@ -124,10 +96,6 @@
 
 .pd-20{
     padding: 20px;
-}
-
-.pd-40{
-    padding: 40px;
 }
 
 .pd-80{
@@ -144,30 +112,6 @@
 
 .font-20{
     font-size: 20px;
-}
-
-.height-70{
-    height: 70px;
-}
-
-.height-350{
-    height: 350px;
-}
-
-.height-450{
-    height: 450px;
-}
-
-.height-500{
-    height: 500px;
-}
-
-.height-800{
-    height: 800px;
-}
-
-.height-1000{
-    height: 1000px;
 }
 
 .border{
@@ -220,7 +164,7 @@ hr{
 }
 
 .btn{
-    padding: 10px 15px;
+    padding: 10px 16px;
     border-radius: 20px;
 }
 
@@ -292,6 +236,10 @@ h3, #title{
     font-weight: 600;
 }
 
+.ita{
+    height: 16px;
+}
+
 .fab{
     color: white;
     font-size: 32px;
@@ -309,6 +257,13 @@ h3, #title{
     font-size: 20px;
 }
 
+.registrati{
+    background-color: rgb(144, 144, 232);
+    font-size: 18px;
+    color: white;
+}
 
-
-
+.bottom-footer{
+    padding-top: 20px;
+    padding-bottom: 70px;
+}
