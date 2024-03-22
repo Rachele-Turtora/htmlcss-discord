@@ -130,6 +130,10 @@
     padding: 40px;
 }
 
+.pd-80{
+    padding: 80px 0;
+}
+
 .font-20{
     font-size: 20px;
 }
@@ -223,14 +227,17 @@ hr{
     background-size: cover;
 }
 
-.first-sec h1{
+h2{
     font-size: 52px;
-    padding-top: 70px;
+}
+
+.section h2{
     padding-bottom: 30px;
 }
 
-.first-sec p{
+p{
     font-size: 24px;
+    font-weight: 300;
 }
 
 .buttons{
@@ -254,4 +261,6 @@ hr{
     background-color: black;
     color: white;
 }
+
+
 
