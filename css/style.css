@@ -83,7 +83,7 @@
 }
 
 .bg-lightgrey{
-    background-color: rgb(240, 238, 238);
+    background-color: rgb(0,0,0,0.05);
 }
 
 .bg-grey{
@@ -112,14 +112,6 @@
 
 .font-20{
     font-size: 20px;
-}
-
-.border{
-    border: 2px dashed black;
-}
-
-.border-white{
-    border: 2px dashed white;
 }
 
 .text-left{
@@ -232,6 +224,17 @@ h4{
 #mac{
     color: white;
     background-color: rgb(144, 144, 232);
+}
+
+.bg-wave{
+    background-image: url("../img/wave.svg");
+    background-size: cover;
+    height: 100px;
+    opacity: 0.05;
+}
+
+.flip{
+    transform: rotate(180deg);
 }
 
 h3{
